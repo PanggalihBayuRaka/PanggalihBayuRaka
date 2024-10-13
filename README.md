@@ -28,6 +28,6 @@
     <a href="https://wa.me/+6285780402254">whatsapp</a>
   </li>
   <li>
-    <a href="https://x.com/Panggalih10">x</a>
+    <a href="https://discord.gg/PRUGcY2c">discord</a>
   </li>
 </ul>
