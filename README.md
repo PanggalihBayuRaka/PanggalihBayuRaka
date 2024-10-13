@@ -22,7 +22,7 @@
 <h1>jika anda mau menghubungi saya silahkan hubungi</h1>
 <ul>
   <li>
-    <a href="https://insagram.com/panggalih65">instagram</a>
+    <a href="https://instagram.com/panggalih65">instagram</a>
   </li>
   <li>
     <a href="https://wa.me/+6285780402254">whatsapp</a>
